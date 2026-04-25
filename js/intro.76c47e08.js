@@ -72,7 +72,7 @@
                     attrs: {
                       width: "560",
                       height: "315",
-                      src: "https://www.youtube.com/watch?v=h5U98IQxP4E",
+                      src: "https://www.youtube.com/embed/h5U98IQxP4E",
                       title: "YouTube video player",
                       frameborder: "0",
                       allow:
